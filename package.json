@@ -1,0 +1,26 @@
+{
+  "name": "export-helpers",
+  "version": "1.0.0",
+  "description": "Export helpers methods. You can provide array of object to export to excel or csv or pdf.",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "/dist"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Pradeep Raj Thapaliya",
+  "license": "MIT",
+  "dependencies": {
+    "file-saver": "^2.0.5",
+    "pdfmake": "^0.2.7",
+    "xlsx": "^0.18.5"
+  },
+  "devDependencies": {
+    "@types/file-saver": "^2.0.5",
+    "@types/pdfmake": "^0.2.2",
+    "typescript": "^4.9.5"
+  }
+}
