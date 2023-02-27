@@ -1,5 +1,5 @@
 {
-  "name": "export-helpers",
+  "name": "@prt-ts/export-helpers",
   "version": "1.0.0",
   "description": "Export helpers methods. You can provide array of object to export to excel or csv or pdf.",
   "main": "dist/index.js",
